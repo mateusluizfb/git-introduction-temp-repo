@@ -1,7 +1,9 @@
 Hello, Ola, Hola!!
 
-How are you doing?
+How are you?
 
-Im doing good
+Im doing good!!
+
+this is new text
 
 this is me changing this file. V
